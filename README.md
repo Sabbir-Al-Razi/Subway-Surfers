@@ -1,2 +1,2 @@
 # Subway-Surfers
-For movement press left right up down aero
+For movement press left right up down arrow key
